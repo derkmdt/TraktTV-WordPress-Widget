@@ -1,0 +1,35 @@
+.ljpl-trakttv img {
+	float:right;
+	width: 150px;
+	vertical-align:top;
+}
+
+.ljpl-trakttv li {
+    height:100px;
+	list-style-position:outside;
+}
+
+.ljpl-trakttv .poster {
+    float:left;
+	width:50px;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+.ljpl-trakttv .poster img {
+    border:1px solid #999999;
+	height:69px;
+}
+
+.ljpl-trakttv p.title  {
+	margin-bottom:6px;
+	font-weight:bold;
+}
+
+.ljpl-trakttv p.footer  {
+    margin-top:5px;
+}
+
+.ljpl-trakttv p.footer a  {
+    font-size:12px;
+}
